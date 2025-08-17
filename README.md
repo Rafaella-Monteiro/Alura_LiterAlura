@@ -24,6 +24,3 @@ O objetivo é praticar **Java**, **consumo de APIs REST**, **manipulação de JS
 - 🔄 **Jackson** (para desserialização de JSON)
   
 ---
-
-## 📂 Estrutura do Projeto
-
